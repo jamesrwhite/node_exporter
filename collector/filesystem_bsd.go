@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// +build openbsd,!amd64 darwin,amd64 dragonfly
+// +build openbsd,!amd64 darwin,amd64 darwin,arm64 dragonfly
 // +build !nofilesystem
 
 package collector
